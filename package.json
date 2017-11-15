@@ -1,0 +1,27 @@
+{
+  "name": "UX-interview-preparation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongbojing/20171115DTA-1.git"
+  },
+  "author": "hongbojing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongbojing/20171115DTA-1/issues"
+  },
+  "homepage": "https://github.com/hongbojing/20171115DTA-1",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2",
+    "morgan": "^1.9.0"
+  }
+}
